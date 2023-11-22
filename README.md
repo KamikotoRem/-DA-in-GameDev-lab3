@@ -44,6 +44,7 @@
 - Открыть гугл таблицы и представить в ней данные
 Открыв код, увидел переменные которые можно изменять
 - ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/c814f8ec-fe26-4d67-bcca-288b26d2039c)
+  
 Таблица с данными:
 - ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/0093a4a8-27a9-47d8-af9d-64ff0bd08a51)
 
