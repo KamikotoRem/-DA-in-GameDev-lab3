@@ -56,33 +56,32 @@
 Ход работы:
 - Написать 10 сцен в юнити
 Вносим данные из табличек в скрипт
-1 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/307a0f35-24d6-498e-b8a5-a7cb85e7d5cd)
-2 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/6178feda-681a-4a24-83d6-f7023aef501c)
-3 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/2d6efbbf-48b7-49f2-b6a5-f00ec9a56ff5)
+###1 Сцена
+1. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/307a0f35-24d6-498e-b8a5-a7cb85e7d5cd)
+###2 Сцена
+2. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/6178feda-681a-4a24-83d6-f7023aef501c)
+###3 Сцена
+3. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/2d6efbbf-48b7-49f2-b6a5-f00ec9a56ff5)
+###4 Сцена
+4.![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/5446e740-7fb6-46a0-aa85-339271b19cc3)
 
-4 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/5446e740-7fb6-46a0-aa85-339271b19cc3)
+###5 Сцена
+5. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/88a931be-e24f-4cb2-b123-e3cc9a2b2735)
 
-5 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/88a931be-e24f-4cb2-b123-e3cc9a2b2735)
+###6 Сцена
+6. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/0d66c93f-c828-4e3b-a8eb-70013a4e1dad)
 
-6 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/0d66c93f-c828-4e3b-a8eb-70013a4e1dad)
+###7 Сцена
+7. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/01f04c45-c601-4c69-a9e2-ba10355c7c6b)
 
-7 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/01f04c45-c601-4c69-a9e2-ba10355c7c6b)
+###8 Сцена
+8. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/5c47d395-e3ec-4df1-8031-944e54428206)
 
-8 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/5c47d395-e3ec-4df1-8031-944e54428206)
+###9 Сцена
+9. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/6f51e1c4-418b-464e-ae7e-9e12af65a4f9)
 
-9 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/6f51e1c4-418b-464e-ae7e-9e12af65a4f9)
-
-10 Сцена
-![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/0029e109-e65e-4d84-93a1-1b0ea6f0a0e1)
+###10 Сцена
+10. ![image](https://github.com/KamikotoRem/-DA-in-GameDev-lab3/assets/129965242/0029e109-e65e-4d84-93a1-1b0ea6f0a0e1)
 
 
 ## Задание 3
